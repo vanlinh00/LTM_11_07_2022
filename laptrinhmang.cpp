@@ -1,6 +1,3 @@
-// Ứng dụng cần đọc giá trị các tham số, thực hiện phép tính và 
-// trả lại kết quả cho trình duyệt là trang web thể hiện phép tính đó.
-//
 
 
 #include <stdio.h>
